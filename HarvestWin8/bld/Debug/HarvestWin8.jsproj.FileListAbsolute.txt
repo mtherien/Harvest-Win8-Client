@@ -1,0 +1,13 @@
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bin\Debug\resources.pri
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bin\Debug\AppxManifest.xml
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bin\Debug\HarvestWin8.build.appxrecipe
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bld\Debug\priconfig.xml.intermediate
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bld\Debug\layout.resfiles.intermediate
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bld\Debug\resources.resfiles.intermediate
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bld\Debug\pri.resfiles.intermediate
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bld\Debug\priconfig.xml
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bld\Debug\layout.resfiles
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bld\Debug\resources.resfiles
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bld\Debug\pri.resfiles
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bld\Debug\LanguageQualifiers.txt
+C:\Users\mtherien\Documents\GitHub\Harvest-Win8-Client\HarvestWin8\bld\Debug\ProjectArchitectures.txt
