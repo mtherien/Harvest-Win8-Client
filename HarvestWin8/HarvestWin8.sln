@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "HarvestWin8", "HarvestWin8.jsproj", "{1E507D45-20E8-40E6-BC69-2880B11A7DE7}"
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "HarvestWin8", "HarvestWin8/HarvestWin8.jsproj", "{1E507D45-20E8-40E6-BC69-2880B11A7DE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

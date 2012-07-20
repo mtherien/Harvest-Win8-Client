@@ -1,48 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-
-  <Identity
-    Name="1e507d45-20e8-40e6-bc69-2880b11a7de7"
-    Version="1.0.0.0"
-    Publisher="CN=mtherien" />
-
+  <Identity Name="E7D90800-2314-4993-A2AA-710DC27E146A" Version="1.0.0.0" Publisher="CN=mtherien" />
   <Properties>
-    <DisplayName>HarvestWin8</DisplayName>
+    <DisplayName>Harvest TIme Track</DisplayName>
     <PublisherDisplayName>mtherien</PublisherDisplayName>
     <Logo>images\storelogo.png</Logo>
   </Properties>
-
   <Prerequisites>
     <OSMinVersion>6.2.0</OSMinVersion>
     <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
   </Prerequisites>
-
   <Resources>
     <Resource Language="x-generate" />
   </Resources>
-
   <Applications>
-    <Application 
-      Id="App"
-      StartPage="default.html">
-
-      <VisualElements
-        DisplayName="HarvestWin8"
-        Logo="images\logo.png"
-        SmallLogo="images\smalllogo.png"
-        Description="HarvestWin8"
-        ForegroundText="light"
-        BackgroundColor="#464646">
-
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="HarvestWin8" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="HarvestWin8" ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="images\splashscreen.png" />
-
       </VisualElements>
     </Application>
   </Applications>
-
   <Capabilities>
     <Capability Name="internetClient" />
   </Capabilities>
-
 </Package>
